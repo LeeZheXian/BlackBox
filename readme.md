@@ -1,6 +1,6 @@
-This Python script confirms that the configuration files you uploaded earlier are the direct result of a training run on the **IMDB movie review dataset**. The script is designed to perform a **binary sentiment analysis** task—determining if a movie review is positive or negative.
+# The script is designed to perform a **binary sentiment analysis** task—determining if a movie review is positive or negative.
 
-### What this code does step-by-step:
+# What this code does step-by-step:
 
 1. 
 **Dataset Selection**: It loads the `imdb` dataset, which contains 50,000 movie reviews.
