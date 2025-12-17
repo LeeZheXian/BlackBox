@@ -1,3 +1,6 @@
+#Discriminative Transformer Model ~ using HuggingFace Library 
+
+
 # The script is designed to perform a **binary sentiment analysis** task—determining if a movie review is positive or negative.
 
 # What this code does step-by-step:
